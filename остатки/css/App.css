@@ -1,0 +1,54 @@
+.amidura{
+  width: 100px;
+  margin: -25px 0 0 0;
+}
+.hedear_list{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 40px 10px 0px 0px ;
+  
+
+}
+.four{
+  padding: 0px 0px 0px 100px;
+}
+.dino{
+  width: 700px;
+  float: right;
+  display: flex;
+  justify-content: center;
+  transform: translate(-190px,0);
+  margin: -350px 0 0 0 ;
+
+}
+.small{
+  list-style: none;
+  padding: 0 0 350px 0;
+
+}
+p{
+  width: 400px;
+  padding: 20px 0 0 135px;
+  font-size: 19px;
+  
+}
+h1{
+  padding: 40px 0 5px 135px ;
+}
+.side{
+  width: 1500px;
+}
+
+body{
+  background-color: #F4F9E2;
+  
+}
+button{
+  background-color: #F9B640 ;
+  border-radius: 15px;
+  height: 40px;
+  width: 120px;
+  border: none;
+  margin: 0 27px 0 0;
+}

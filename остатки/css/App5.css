@@ -1,0 +1,27 @@
+body{
+    background-color: #FFFFFF;
+}
+.fir{
+  width: 550px;
+  text-align: left;
+  font-size: 36px;
+  
+}
+.text_fir{
+    padding:0 0 0 700px;
+    list-style: none;
+    margin: -470px 0 0 0;
+}
+.lala{
+    width: 650px;
+    height: 670px;
+    transform: translate();
+}
+.fir1{
+    width: 550px;
+    text-align: left;
+    font-size: 37px;
+    padding: 0 0 0 135px;
+
+    
+  }
